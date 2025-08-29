@@ -12,7 +12,7 @@ After you submit the confession, the automation platform will send a approval re
 If you have any questions or concerns, please message @dsc.confess on Instagram.
 
 ## Terms and Conditions
-This terms and conditions applies to your use of DSC Confessions, including the LinkTree website, this website, the confession submission form, and Instagram account (collectively, the "platform")
+This terms and conditions applies to your use of DSC Confessions, including the LinkTree website, this website, the confession submission form, and Instagram account (collectively, the "platform").
 
-By using this platform, you agree to the [Terms and Conditions](TAC.md)
+By using the platform, you agree to the [Terms and Conditions](TAC.md).
 
